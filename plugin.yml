@@ -1,0 +1,10 @@
+name: ConnectPvPUtils
+version: 1.0
+authors: [Arkasher, DevBlocks]
+main: com.gcb.connect.Main
+commands:
+    voar:
+    mito:
+    setmito:
+    trabalhar:
+    rtable:

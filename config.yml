@@ -1,0 +1,11 @@
+#            Plugin desenvolvido por DevBlocks e Arkasher especialmente para
+#                                  Connect PvP
+
+Mito: ""
+
+
+MySQL:
+    Usuario: root
+    Senha: ""
+    Database: database
+    IP: "localhost"
